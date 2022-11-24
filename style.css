@@ -2,9 +2,10 @@ table {
   background:red;
 }
 
-td {
+table tr td{
 
- border: 1px solid;
+ border: 2px solid;
+  
  border-color: black;
 
 }

@@ -2,7 +2,7 @@ table {
   background:red;
 }
 
-table tr,th {
+td {
 
 border: 2px solid blue;
 
